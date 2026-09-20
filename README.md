@@ -27,5 +27,7 @@ O objetivo é permitir o cadastro de clientes, veículos, realização de alugue
 
 ## Integrantes
 
-- Seu nome
-- Nome dos integrantes (caso tenha)
+- João Ricardo Santos Couto
+- Erik Edward Paiva Correia
+- Gustavo albuquerque 
+- Yann Braz
